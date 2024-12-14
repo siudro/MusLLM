@@ -81,19 +81,19 @@ langchain-text-splitters==0.3.2
 langsmith==0.1.147
 Mako==1.3.8
 markdown-it-py==3.0.0
-MarkupSafe==3.0.2
+MarkupSafe==2.1.3
 marshmallow==3.23.0
 mdurl==0.1.2
 mem0ai==0.1.34
 mmh3==5.0.1
 monotonic==1.6
 mpmath==1.3.0
-multidict==6.0.4  # تم التحديث
+multidict==6.0.4
 mypy-extensions==1.0.0
 narwhals==1.18.2
-numpy==1.24.3  # تم التحديث
+numpy==1.26.0
 oauthlib==3.2.2
-onnxruntime==1.18.1  # تم التحديث
+onnxruntime==1.18.1
 openai==1.57.4
 opentelemetry-api==1.29.0
 opentelemetry-exporter-otlp-proto-common==1.29.0
